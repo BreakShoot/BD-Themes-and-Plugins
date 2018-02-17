@@ -2185,7 +2185,7 @@ left: -11px;
 .guilds-wrapper .guilds .guild.unread, 
 .channel.channel-text.unread:not(.channel-muted):not(.selected),
 [class*=unreadIndicator] {
--webkit-animation: glowpulse 1s infinite alternate;
+/*-webkit-animation: glowpulse 1s infinite alternate;*/
 /*animation: glowpulse 1s infinite alternate;*/
 } 
 .channel:not(.selected) {
